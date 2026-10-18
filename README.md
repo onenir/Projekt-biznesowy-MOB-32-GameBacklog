@@ -1,7 +1,7 @@
 # Projekt-Flutter
 Przedmiot: Budowa aplikacji mobilnych z użyciem technologii frontendowych
 
-Projekt: MOB-[XXX]
+Projekt: MOB-[32] - GameBacklog
 
 Imię, Nazwisko: Bartłomiej Zięba
 
