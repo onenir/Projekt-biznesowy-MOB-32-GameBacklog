@@ -1,4 +1,8 @@
-# Projekt-Flutter-
-Budowa aplikacji mobilnych z użyciem technologii frontendowych
+# Projekt-Flutter
+Przedmiot: Budowa aplikacji mobilnych z użyciem technologii frontendowych
 
-Bartłomiej Zięba
+Projekt: MOB-[XXX]
+
+Imię, Nazwisko: Bartłomiej Zięba
+
+Prowadzący: Marcin Piwko
